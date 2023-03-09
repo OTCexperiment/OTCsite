@@ -3633,16 +3633,12 @@ ul {
   position: relative;
   display: -ms-grid;
   display: grid;
-  overflow: hidden;
-  grid-auto-flow: column;
-  grid-auto-columns: auto;
+  overflow: auto;
   -ms-grid-columns: auto;
   -ms-grid-rows: auto;
-  grid-template-rows: auto;
   border-radius: 1rem;
   background-color: #e2e2e2;
   color: #111;
-}
 
 .home-about-description {
   font-size: 1.125em;
