@@ -3629,7 +3629,7 @@ ul {
   color: #111;
 }
 
-.grid-about-iframe {
+.iframe {
   position: relative;
   display: -ms-grid;
   display: grid;
