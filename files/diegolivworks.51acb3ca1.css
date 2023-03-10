@@ -3633,7 +3633,7 @@ ul {
   position: relative;
   display: -ms-grid;
   display: grid;
-  overflow: hidden;
+  overflow: scroll;
   grid-auto-flow: column;
   grid-auto-columns: auto;
   -ms-grid-columns: auto;
