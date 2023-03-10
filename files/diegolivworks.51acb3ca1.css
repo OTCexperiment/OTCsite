@@ -3768,6 +3768,11 @@ ul {
   margin-bottom: -100vh;
 }
 
+.text-small {
+  font-size: 2rem;
+  line-height: 1;
+}
+
 .text-medium {
   font-size: 4rem;
   line-height: 1;
