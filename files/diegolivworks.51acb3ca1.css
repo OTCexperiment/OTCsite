@@ -3474,7 +3474,7 @@ ul {
   -ms-flex: 1;
   flex: 1;
   border-radius: 1.5rem;
-  background-color: #e2e2e2;
+  background-color: transparent;
 }
 
 .project-item-bg {
