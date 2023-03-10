@@ -3502,7 +3502,7 @@ ul {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  overflow: hidden;
+  overflow: scroll;
   width: 100%;
   min-height: 115vh;
   padding: 1.5rem;
